@@ -1,0 +1,5 @@
+Contnt=Africa
+Contr=Algeria
+bilad=bab-ezzouar
+Url=https://www.islamicfinder.org/world/Algeria/2505854/Bab%20Ezzouar-prayer-times/?language=ar
+timeupdat=00:00
